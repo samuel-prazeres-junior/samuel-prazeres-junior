@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ### Estou aprendendo
 <div>
   <p>📚 Tenho estudado Java, Kotlin, Docker, Kubernetes e iniciei meus estudos em testes(Unitario, Integração, E2E e Parametrizados) para desenvolver microsserviços com maior nivel de qualidade.</p>
-  <p>☕🎮 só acordo com café, adoro games (mas sou ruim em todos).</p>
+  <p>☕🎮 só acordo com café, adoro games.</p>
 </div>
 <div>
   <a href="https://www.linkedin.com/in/samuel-prazeres-junior-a97345185/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
